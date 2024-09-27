@@ -2,9 +2,9 @@
 <h3 align="center">Passionate about all things AI/ML, with a focus on NLP and Recommender Systems</h3>
 <h4 align='center'>(because who doesn’t want to know what to binge-watch next?).</h4>
 
-<p align='center'>Currently deep-diving into <b>Transformers, making sense of words, data, and everything in between</b>. I thrive on challenges—be it making sense of complex algorithms or figuring out why my code isn’t running (spoiler: <i>it's usually a typo</i>). My curiosity fuels my love for uncovering insights that help drive smarter decision-making.</p>
+<p align='center'>Currently deep-diving into <b>NLP and Transformers, making sense of words, data, and everything in between</b>. I thrive on challenges—be it making sense of complex algorithms or figuring out why my code isn’t running (spoiler: <i>it's usually a typo</i>). My curiosity fuels my love for uncovering insights that help drive smarter decision-making.</p>
 
-- 🔭 Working on [Transformers](https://huggingface.co/ditherr)
+- 🔭 Working on **everything and anything, it's up to me!**
 
 - 🌱 Currently learning **Transformers focused on NLP and Recommender System**
 
